@@ -5,6 +5,7 @@ Creating a News Website using only HTML, CSS, and JavaScript is an excellent pro
 This project provides practical experience in working with APIs, handling DOM manipulation, and creating a responsive layout. By incorporating these fundamental web technologies, developers can gain a comprehensive understanding of building a functional News Website from scratch. It's an ideal learning opportunity for those looking to hone their skills in front-end web development.
 
 https://github.com/Gowri20-10/News-website/blob/main/News%20web(1).png
+https://github.com/Gowri20-10/News-website/blob/main/News%20web(2).png
 
 
 
