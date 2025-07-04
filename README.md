@@ -12,6 +12,7 @@ https://github.com/Gowri20-10/News-website/blob/main/News%20web(3).png
 
 https://github.com/Gowri20-10/News-website/blob/main/News%20web(4).png
 
+https://github.com/Gowri20-10/News-website/blob/main/News%20web(5).png
 
 
 
